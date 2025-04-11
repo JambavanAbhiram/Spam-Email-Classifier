@@ -21,7 +21,7 @@ This project is a spam email classifier. The same classifier is built using two 
   4. Recall: 0.9890
 2. Confusion Matrix has been plotted to visualize the performance of the models.
 
-Dataset: **Source[Enron Email dataset](https://www.kaggle.com/datasets/wanderfj/enron-spam)
+Dataset: **Source [Enron Email dataset](https://www.kaggle.com/datasets/wanderfj/enron-spam)
 
 ## Installation
 
