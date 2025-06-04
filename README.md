@@ -29,3 +29,4 @@ Dataset: **Source [Enron Email dataset](https://www.kaggle.com/datasets/wanderfj
 git clone https://github.com/JambavanAbhiram/spam-email-classifier.git
 cd spam-email-classifier
 pip install -r requirements.txt
+python src/train_model.py
